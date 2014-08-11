@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="beads.cpp" />
+    <ClCompile Include="transform.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6AE7D3A0-DA9E-429D-BA99-8A51C5E8C7DB}</ProjectGuid>
